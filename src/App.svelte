@@ -2,4 +2,8 @@
     import { Sveltenalytica } from './module.js';
 </script>
 
-<Sveltenalytica code="12345" />
+<h1>
+    test
+</h1>
+<Sveltenalytica />
+<div>text</div>
